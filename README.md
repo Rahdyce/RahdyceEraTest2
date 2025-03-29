@@ -1,5 +1,5 @@
 # RahdyceEraTest2
-Rahdyce Era
-Re05028@georgiasouthern.edu
-901275862
-Test2 Github Repository 
+Name: Rahdyce Era
+Email:Re05028@georgiasouthern.edu
+Eagle ID: 901275862
+Description: Test2 Github Repository. Pracited with Git Operations. Created test cases for class file.
